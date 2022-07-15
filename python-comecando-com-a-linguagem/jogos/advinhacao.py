@@ -1,0 +1,1 @@
+print ('bem vindo no jono de advinhação')
